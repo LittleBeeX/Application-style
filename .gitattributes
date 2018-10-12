@@ -1,1 +1,2 @@
-*. linguist-language=CSS
+*.css linguist-language=CSS
+*.php linguist-language=CSS

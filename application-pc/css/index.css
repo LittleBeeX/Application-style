@@ -642,13 +642,13 @@ header .navbar.active {
   margin-bottom: 30px;
 }
 .login {
-  min-height: 500px;
+  min-height: 900px;
 }
 .reset {
-  min-height: 600px;
+  min-height: 900px;
 }
 .register {
-  min-height: 830px;
+  min-height: 900px;
 }
 footer {
   background: #20206A;

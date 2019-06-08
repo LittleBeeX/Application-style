@@ -1,0 +1,76 @@
+.home .introduce ul li {
+  padding: 15px;
+}
+.home .introduce ul li h2,
+.home .introduce ul li p {
+  line-height: 1;
+}
+.home .introduce ul li p {
+  text-align: left;
+}
+.home .introduce ul li h2 {
+  height: 32px;
+  font-size: 16px;
+}
+.platform .items {
+  padding: 40px 25px;
+  display: block;
+}
+.platform .items h3 {
+  margin: 10px 0;
+  font-size: 20px;
+}
+.platform .items p {
+  padding: 0;
+  text-align: left;
+}
+.platform .items div {
+  height: 100px;
+}
+@media (max-width: 767px) {
+  .platform .items {
+    padding: 40px 15px;
+    height: auto;
+  }
+}
+@media screen and (min-width: 992px) {
+  .token .telegram-cta {
+    background-size: 29%;
+  }
+  .token .telegram-cta .text-sm-left {
+    padding-left: 28%;
+  }
+  .token .telegram-cta h2 {
+    font-size: 24px !important;
+  }
+  .token .telegram-cta span {
+    font-size: 12px;
+  }
+}
+.roadmap-m .swiper-container p {
+  text-align: left;
+}
+@media (max-width: 321px) {
+  .roadmap-m .roadmap-logo {
+    margin-left: 0;
+  }
+}
+.roadmap .roadmap-body .roadmap-path .point-card .card-board {
+  position: absolute;
+  top: -505px;
+}
+.roadmap .roadmap-body .roadmap-path .point-card .card-board ul li {
+  font-size: 16px;
+}
+.roadmap .roadmap-body .roadmap-path:nth-child(3).active .point-line {
+  height: 470px;
+}
+.roadmap .roadmap-body .roadmap-path:nth-child(4).active .point-line {
+  height: 470px;
+}
+.roadmap .roadmap-body .roadmap-path:nth-child(5).active .point-line {
+  height: 470px;
+}
+footer .footer-message .address {
+  margin-top: 30px;
+}
